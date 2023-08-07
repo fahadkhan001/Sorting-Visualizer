@@ -11,3 +11,4 @@ Introducing our state-of-the-art Sorting Visualizer – an immersive and educati
   2.2) Data size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
+5) try https://fahadkhan001.github.io/Sorting-Visualizer/
